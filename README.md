@@ -1,4 +1,4 @@
-BigDataIsBeatiful
+BigData IUT
 =================
 
-Support visuel de l'intervention au colloque Is "Big Data" Beautiful ?
+Support visuel de l'intervention aux assises de la professionnalisation de l'IUT
